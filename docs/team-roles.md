@@ -14,27 +14,35 @@
 	@geraldnofuckstogive666
       </td>
       <td align="center" style="padding: 60px;">
-        <a href="https://github.com/jars-ofclay">
-          <img src="https://avatars.githubusercontent.com/u/195441285?v=4" width="210px;" alt=""/>
-          <br />
-          <sub><b>LERIO, Jars Christian</b></sub>
+        <a href="https://github.com/elRapha04">
+          <img src="https://avatars.githubusercontent.com/u/182509116?v=4" width="210px;" alt=""/>
         </a>
+		<br />
+	<b>NADUMA, Raphael U.</b>
+	<br />
+	@elRapha04
       </td>
     </tr>
     <tr>
       <td align="center" style="padding: 60px;">
-        <a href="https://github.com/kntjspr">
-          <img src="https://avatars.githubusercontent.com/u/65537922?v=4" width="210px;" alt=""/>
-          <br />
-          <sub><b>SISI, Kent Jasper</b></sub>
+        <a href="https://github.com/kevalush2000">
+          <img src="https://avatars.githubusercontent.com/u/209353342?v=4" width="210px;" alt=""/>
         </a>
+	<br />
+	<b>PALONGPALONG, Kyle A.</b>
+	<br />
+	@kevalush2000
+		  
       </td>
       <td align="center" style="padding: 60px;">
-        <a href="https://github.com/charlesgiovanne">
-          <img src="https://avatars.githubusercontent.com/u/163762221?v=4" width="210px;" alt=""/>
-          <br />
-          <sub><b>SORONGON, Charles Juvanne</b></sub>
+        <a href="https://github.com/Eii-nn">
+          <img src="https://avatars.githubusercontent.com/u/193238842?v=4" width="210px;" alt=""/>
         </a>
+	<br />
+	<b>GLANIDA, Ravien .</b>
+	<br />
+	@Eii-nn
+		
       </td>
     </tr>
   </table>
