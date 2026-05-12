@@ -13,7 +13,7 @@
 	<b>BONIEL, Gerald D.</b>
 	<br />
 	@geraldnofuckstogive666
-	<br /><br />  <b>Frontend Developer / Docs lead</b>
+	<br /><br />  <b>Frontend Developer / Docs lead</b><br />
       </td>
       <td align="center" style="padding: 140px;">
         <a href="https://github.com/elRapha04">
@@ -23,7 +23,7 @@
 	<b>NADUMA, Raphael U.</b>
 	<br />
 	@elRapha04
-	<br /><br />  <b> Project Manager </b>
+	<br /><br />  <b> Project Manager </b><br />
       </td>
     </tr>
     <tr>
@@ -35,7 +35,7 @@
 	<b>PALONGPALONG, Kyle A.</b>
 	<br />
 	@kevalush2000
-	<br /><br />  <b>QA Tester</b>
+	<br /><br />  <b>QA Tester</b><br />
       </td>
       <td align="center" style="padding: 140px;">
         <a href="https://github.com/Eii-nn">
@@ -45,7 +45,7 @@
 	<b>GLANIDA, Ravien .</b>
 	<br />
 	@Eii-nn
-	<br /><br />  <b>Backend Developer</b>
+	<br /><br />  <b>Backend Developer</b><br />
   </table>
 </div>
 
