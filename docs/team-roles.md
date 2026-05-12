@@ -41,9 +41,6 @@
 	<b>GLANIDA, Ravien .</b>
 	<br />
 	@Eii-nn
-
-      </td>
-    </tr>
   </table>
 </div>
 
