@@ -1,4 +1,5 @@
-## Members:
+## Team Members and Roles
+
 
 
 <div align="center">
@@ -49,7 +50,6 @@
 </div>
 
 
-## ROLE Assignments
 
 
 
