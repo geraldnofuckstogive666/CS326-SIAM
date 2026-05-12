@@ -13,7 +13,7 @@
 	<b>BONIEL, Gerald D.</b>
 	<br />
 	@geraldnofuckstogive666
-	<br /><br />  <b>Frontend Developer / Docs lead</b><br />
+	<br /><br />  <b>Full-stack Developer / Docs lead</b><br />
       </td>
       <td align="center" style="padding: 140px;">
         <a href="https://github.com/elRapha04">
@@ -45,7 +45,7 @@
 	<b>GLANIDA, Ravien .</b>
 	<br />
 	@Eii-nn
-	<br /><br />  <b>Backend Developer</b><br />
+	<br /><br />  <b>DevOps Engineer</b><br />
   </table>
 </div>
 
