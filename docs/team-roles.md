@@ -33,8 +33,6 @@
 	<br />
 	@kevalush2000
       </td>
-	</tr>
-	<tr>
       <td align="center" style="padding: 60px;">
         <a href="https://github.com/Eii-nn">
           <img src="https://avatars.githubusercontent.com/u/193238842?v=4" width="210px;" alt=""/>
