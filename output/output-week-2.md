@@ -1,5 +1,5 @@
 # Backlog
-[Backlog](docs/backlog.md)
+[Backlog](../docs/backlog.md)
 
 
 
@@ -12,7 +12,7 @@
 
 ## Sprint 1 plan   
 
-[Sprint 1 plan](docs/sprint-1-plan.md)
+[Sprint 1 plan](../docs/sprint-1-plan.md)
 
 
 
@@ -21,7 +21,7 @@
 
 
 ## Schedule
-[Schedule](docs/schedule.md)
+[Schedule](../docs/schedule.md)
 
 
 
@@ -31,7 +31,7 @@
 
 
 ## Team roles
-[Team roles](docs/team-roles.md)
+[Team roles](../docs/team-roles.md)
 
 
 <div align="center">
