@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Dashboard - TaskLite</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+
+<body class="bg-gray-100">
+
+    <!-- HEADER -->
+    <div class="bg-white shadow p-4 flex justify-between items-center">
+        <h1 class="text-xl font-bold">TaskLite Dashboard</h1>
+        <div class="text-gray-600">User: <span id="user"></span></div>
+    </div>
+
+    <!-- STATS -->
+    <div class="grid grid-cols-4 gap-4 p-6">
+
+        <div class="bg-white p-4 rounded-xl shadow">
+            <p class="text-gray-500">Total</p>
+            <h2 id="total" class="text-2xl font-bold">0</h2>
+        </div>
+
+        <div class="bg-white p-4 rounded-xl shadow">
+            <p class="text-gray-500">Completed</p>
+            <h2 id="done" class="text-2xl font-bold text-green-600">0</h2>
+        </div>
+
+        <div class="bg-white p-4 rounded-xl shadow">
+            <p class="text-gray-500">Pending</p>
+            <h2 id="pending" class="text-2xl font-bold text-yellow-600">0</h2>
+        </div>
+
+        <div class="bg-white p-4 rounded-xl shadow">
+            <p class="text-gray-500">Completion</p>
+            <h2 id="rate" class="text-2xl font-bold text-blue-600">0%</h2>
+        </div>
+
+    </div>
+
+    <!-- ACTION BAR -->
+    <div class="px-6 flex gap-2">
+        <input id="search" placeholder="Search tasks..." class="p-2 border rounded-lg w-1/3" oninput="loadTasks()" />
+
+        <button onclick="openModal()" class="bg-blue-500 text-white px-4 py-2 rounded-lg">
+            + Add Task
+        </button>
+    </div>
+
+    <!-- TASK LIST -->
+    <div id="taskList" class="p-6 grid gap-3"></div>
+
+    <!-- MODAL -->
+    <div id="modal" class="hidden fixed inset-0 bg-black bg-opacity-40 flex items-center justify-center">
+
+        <div class="bg-white p-6 rounded-xl w-96 shadow-lg">
+
+            <!-- TITLE -->
+            <h2 class="text-xl font-bold mb-1">Create New Task</h2>
+            <p class="text-sm text-gray-500 mb-4">
+                Fill in the details below to add a new task.
+            </p>
+
+            <!-- TASK TITLE -->
+            <label class="text-sm font-medium text-gray-700">Task Title *</label>
+            <input id="title" placeholder="e.g. Finish Math Assignment" class="w-full p-2 border mb-1 rounded">
+
+            <p class="text-xs text-gray-400 mb-3">
+                Required. Keep it short and clear.
+            </p>
+
+            <!-- DESCRIPTION -->
+            <label class="text-sm font-medium text-gray-700">Description</label>
+            <input id="desc" placeholder="e.g. Solve problems 1–10 in Chapter 3" class="w-full p-2 border mb-1 rounded">
+
+            <p class="text-xs text-gray-400 mb-3">
+                Optional. Add details to help you remember.
+            </p>
+
+            <!-- PRIORITY -->
+            <label class="text-sm font-medium text-gray-700">Priority Level</label>
+            <select id="priority" class="w-full p-2 border mb-1 rounded">
+                <option>Low</option>
+                <option>Medium</option>
+                <option>High</option>
+            </select>
+
+            <p class="text-xs text-gray-400 mb-4">
+                High = urgent, Medium = normal, Low = can wait.
+            </p>
+
+            <!-- BUTTONS -->
+            <div class="flex gap-2">
+                <button onclick="addTask()" class="bg-green-500 text-white px-4 py-2 rounded w-full hover:bg-green-600">
+                    Save Task
+                </button>
+
+                <button onclick="closeModal()" class="bg-gray-300 px-4 py-2 rounded w-full hover:bg-gray-400">
+                    Cancel
+                </button>
+            </div>
+
+        </div>
+    </div>
+
+    <script src="/static/script.js"></script>
+</body>
+
+</html>
