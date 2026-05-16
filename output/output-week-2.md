@@ -30,10 +30,8 @@
 
 
 
-# Team roles
+## Team roles
 [Team roles](docs/team-roles.md)
-## Team Members and Roles
-
 
 
 <div align="center">
